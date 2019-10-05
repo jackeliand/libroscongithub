@@ -2,13 +2,17 @@
 
 ---
 **Impartido por Alí González**
+
 *Apuntes del taller. Octubre 5, 2019*
+
 *Daniel M. Olivera* daniel.m.olivera@gmail.com
 
 
 [Para ver la presentación](http://bit.do/librosengithub)
 
+
 ---
+
 
 ## Sobre el enfoque de libros en Git
 
